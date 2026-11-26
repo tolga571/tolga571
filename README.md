@@ -1,13 +1,15 @@
-﻿### Hi, I'm Tolga Gultekin (	olga571)
+﻿### Hi, I'm Tolga Gultekin (`tolga571`)
 
 Full-Stack Developer building **React / Next.js / TypeScript / Node.js / Prisma** applications, calm zero-bloat UI systems, and local-first productivity tools.
 
 #### Featured Open-Source Starters (MIT)
 
-- **[quietcraft-ui-lite](https://github.com/tolga571/quietcraft-ui-lite)** — Anti-slop React 19 + Tailwind v4 CSS tokens (Graphite light/dark), core components, and drop-in AGENTS.md UI rules.  
-  *Full 16-block SaaS Kit + Warm Paper / Deep Ink palettes + Standalone HTML + 4 AI rule files:* [QuietCraft UI Pro ( launch w/ FIRST50)](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50)
-- **[sololedger-lite](https://github.com/tolga571/sololedger-lite)** — Zero-dependency single-file HTML freelancer hourly rate & tax-buffer calculator.  
-  *Full offline bilingual EN/TR app (PDF invoices, CSV/JSON export, subscription radar) + 28-formula Excel + Obsidian vault:* [SoloLedger Pro (.40 launch w/ SOLO40)](https://jumpertheme.gumroad.com/l/sololedger-pro/SOLO40)
+- **[quietcraft-ui-lite](https://github.com/tolga571/quietcraft-ui-lite)** — Anti-slop React 19 + Tailwind v4 CSS tokens (`Graphite` light/dark), core components, and drop-in `AGENTS.md` UI rules ([Live Demo](https://tolga571.github.io/quietcraft-ui-lite/)).  
+  *Full 16-block SaaS Kit + Warm Paper / Deep Ink palettes + Standalone HTML + 4 AI rule files:* [QuietCraft UI Pro ($3 launch w/ `FIRST50`)](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50)
+- **[sololedger-lite](https://github.com/tolga571/sololedger-lite)** — Zero-dependency single-file HTML freelancer hourly rate & tax-buffer calculator ([Live Demo](https://tolga571.github.io/sololedger-lite/)).  
+  *Full offline bilingual EN/TR app (PDF invoices, CSV/JSON export, subscription radar) + 28-formula Excel + Obsidian vault:* [SoloLedger Pro ($2.40 launch w/ `SOLO40`)](https://jumpertheme.gumroad.com/l/sololedger-pro/SOLO40)
+- **[nextjs-interview-lite](https://github.com/tolga571/nextjs-interview-lite)** — Interactive 8-card Next.js 16 & TypeScript 5 interview study app ([Live Demo](https://tolga571.github.io/nextjs-interview-lite/)).  
+  *Complete 30+ high-value cards PDF & study package:* [Next.js & TypeScript Interview Flashcards ($2)](https://jumpertheme.gumroad.com/l/nextjs-interview-flashcards)
 
 #### Storefront & Tools
 - Storefront: [jumpertheme.gumroad.com](https://jumpertheme.gumroad.com/)
